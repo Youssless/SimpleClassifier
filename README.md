@@ -3,4 +3,4 @@ Simple classifier built in python that classifies on whether the bug is a caterp
 
 ## Result
 
-![Result](result.jpg)
+![Result](result.png)
